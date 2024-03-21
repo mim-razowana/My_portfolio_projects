@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    background-color: rgb(245, 205, 205);
+}
+.name{
+    text-align: center;
+    font-family: "Akronim", system-ui;
+    color: crimson;
+    font-size: 70px;
+    margin-bottom: 0cm;
+
+
+}
+
+.position{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:blueviolet;
+    font-size: 30px;
+    margin-top: 0cm;
+}
+.navbar{
+    padding-top: 230px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-image: url(pngtree-white-abstract-vector-web-background-design-image_597636.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   
+}
+
+ul{
+    list-style: none;
+    
+
+}
+
+.nav-menu ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fa-square-facebook{
+   font-size: 30px;
+   padding-right: 0.35cm;
+   color: blue;
+}
+.fa-github{
+    font-size: 30px;
+    padding-right: 0.35cm;
+ }
+ .fa-linkedin{
+    font-size: 30px;
+    padding-right: 0.35cm;
+    color: rgb(0, 89, 255);
+ }
+
+ .button-1{
+   
+    border: 1px solid green;
+    padding: 10px 40px 10px 40px;
+    border-radius: 10px;
+    margin: 10px;
+  
+    
+ }
+
+ .fa-arrow-up-right-from-square{
+    font-size: 25px;
+
+ }
